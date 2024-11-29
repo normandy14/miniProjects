@@ -25,7 +25,7 @@ Implentation of miniProjects built with the following technologies:
   
 ## License
 
-This project is licensed under the mit License v3.0 [License](License) - see the LICENSE.md file for details
+This project is licensed under the mit License v3.0 [License](License.md) - see the LICENSE.md file for details
 
 ## Authors
 
