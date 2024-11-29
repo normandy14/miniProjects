@@ -1,21 +1,27 @@
-# miniProjects :snowman:
+# Mini Projects :snowman:
 
 ## What is Mini Projects
 
 Mini projects are a collection of mini projects to practice C++
 
-## What this is About
+### Magic Eight Ball :crystal_ball:
 
-### c++
-These projects are used to practice C++ programming
+A user can ask a question to the magic Eight Ball and have the future predicted by the magic eight ball
+
+### Rock, Paper, Scissors Game :game_die:
+
+A user can play against the computer in rock, paper, scissors. The scores of both players are kept.
 
 ## Running the program
 
-compile a program using the command:
+Compile a program using the command:
 
 ```
 g++ -o *output_name* *file_name*.cpp
 ```
+
+Where *output_name* is the name of the desired .exe executable.
+Where *file_name* is the name of the .cpp file to be compiled.
 
 ### Implemented Technologies
 
